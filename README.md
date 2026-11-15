@@ -16,7 +16,7 @@ Software Engineering - GIU Cairo - Milestone 2
 ## ERD
 Editable diagram: [erd.drawio]([docs/erd.drawio](https://app.diagrams.net/#G1BNjXLNSbtMgjNMLrqFd_m7H26eZLBRTO#%7B%22pageId%22%3A%224NXpNhfLXi4b5UQ6lj7A%22%7D))
 ![ERD](docs/erd.png)
-<img width="1502" height="774" alt="ERD biker app drawio" src="https://github.com/user-attachments/assets/fb3292fe-981a-4781-ba3e-f981d7faf01a" />
+<img width="1502" height="774" alt="ERD biker app drawio" src="https://github.com/user-attachments/assets/997701ef-4139-4ba1-aeab-55b752e72f94" />
 
 ## Traceability: entities to user stories
 
