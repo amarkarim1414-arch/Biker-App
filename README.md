@@ -18,8 +18,6 @@ Editable diagram: [erd.drawio]([docs/erd.drawio](https://app.diagrams.net/#G1BNj
 ![ERD](docs/erd.png)
 <img width="1502" height="774" alt="ERD biker app drawio" src="https://github.com/user-attachments/assets/fb3292fe-981a-4781-ba3e-f981d7faf01a" />
 
-can you do this one Zeyad-->
-
 ## Traceability: entities to user stories
 
 | Entity | Justified by user stories |
