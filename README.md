@@ -28,7 +28,7 @@ can you do this one Zeyad-->
 | bikes | RBK-03 |
 | admins | AFB-03 |
 | owners | OFB-01|
-| paymentMethod | APY-01|
+| payment_method | APY-01|
 | trips | RTR-02 |
 | reports | RFB-02 |
 
