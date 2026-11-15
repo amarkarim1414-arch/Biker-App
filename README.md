@@ -21,10 +21,16 @@ Editable diagram: [erd.drawio]([docs/erd.drawio](https://app.diagrams.net/#G1BNj
 can you do this one Zeyad-->
 
 ## Traceability: entities to user stories
+
 | Entity | Justified by user stories |
 |--------|---------------------------|
-| users | US-001, US-002 |
-| bikes | US-005, US-006 |
+| users | RAC-01|
+| bikes | RBK-03 |
+| admins | AFB-03 |
+| owners | OFB-01|
+| paymentMethod | APY-01|
+| trips | RTR-02 |
+| reports | RFB-02 |
 
 
 
