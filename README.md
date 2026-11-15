@@ -3,7 +3,7 @@ Software Engineering - GIU Cairo - Milestone 2
 | Name | ID | Role in team |
 |------|----|--------------|
 | Ammar Karim Elashiry | 19011731 | Team leader |
-| <Rahaf Radwan Saleh> | 19007337| Member |
+| Rahaf Radwan Saleh | 19007337| Member |
 | Ahmed Sherif Badr | 19008346 | Member |
 | Adam Fady Mansour | 19003259 | Member |
 | Adham Moamen Soliman Yehia | 19005649 | Member |
